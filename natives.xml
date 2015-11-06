@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<NativeLibraries>
+	<Linux32><Path>lib/linux/x86</Path></Linux32>
+	<Linux64><Path>lib/linux/x64</Path></Linux64>
+	<MacOSX><Path>lib/mac</Path></MacOSX>
+	<Win32><Path>lib/windows/x86</Path></Win32>
+	<Win64><Path>lib/windows/x64</Path></Win64>
+</NativeLibraries>
